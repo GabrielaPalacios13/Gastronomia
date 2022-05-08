@@ -1,0 +1,10 @@
+.cuadro4{
+    width: 250px;
+    height: 200px;
+    border-radius: 25px;
+    padding-left: 15px;
+    position:absolute;
+    bottom: 100px;  
+    left: 600px;
+    background-color: green;
+}
